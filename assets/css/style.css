@@ -152,7 +152,7 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
     line-height: 14px;
     font-family: 'Lato', sans-serif;
 }
-.banner-right-con::before{
+/* .banner-right-con::before{
     content: "";
     width: 36px;
     height: 36px;
@@ -162,8 +162,8 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
     background: url(../image/curn-icon.png) no-repeat top left;
     -webkit-animation: mover 1s infinite  alternate;
     animation: mover 1s infinite  alternate;
-}
-.banner-right-con::after{
+} */
+/* .banner-right-con::after{
     content: "";
     width: 35px;
     height: 38px;
@@ -184,7 +184,7 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
     background: url(../image/half-circle.png) no-repeat top left;
     -webkit-animation: mover 1s infinite  alternate;
     animation: mover 1.5s infinite  alternate;
-}
+} */
 .banner-social-icon{
     position: absolute;
     left: 88px;
@@ -206,7 +206,7 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
 .generic-title{
     margin-bottom: 46px;
 }
-.service-con::before{
+/* .service-con::before{
     content: "";
     width: 127px;
     height: 404px;
@@ -238,7 +238,7 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
     background: url(../image/corn-left-icon.png) no-repeat top left;
     animation: mover 1s infinite alternate;
     -webkit-animation: mover 1s infinite alternate;
-}
+} */
 .service-inner-con h2{
     color: var(--primary-color);
 }
@@ -460,7 +460,7 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
 .portfolio-body-con{
     margin-top: -207px;
 }
-.portfolio-img-con:after {
+/* .portfolio-img-con:after {
     content: "";
     width: 35px;
     height: 38px;
@@ -470,7 +470,7 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
     background: url(../image/corn-left-icon.png) no-repeat top left;
     animation: mover 1s infinite alternate;
     -webkit-animation: mover 1s infinite alternate;
-}
+} */
 .portfolio-btn {
     margin-top: 26px;
 }
@@ -481,7 +481,7 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
     background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 100%);
     overflow: hidden;
 }
-.skill-con:after {
+/* .skill-con:after {
     content: "";
     width: 127px;
     height: 404px;
@@ -491,8 +491,8 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
     background: url(../image/circle-bg-img.png) no-repeat top right;
     animation: left-mover 1s infinite alternate;
     -webkit-animation: left-mover 1s infinite alternate;
-}
-.skill-con::before {
+} */
+/* .skill-con::before {
     content: "";
     width: 52px;
     height: 59px;
@@ -502,8 +502,8 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
     background: url(../image/half-circle-right-icon.png) no-repeat top left;
     animation: mover 1s infinite alternate;
     -webkit-animation: mover 1s infinite alternate;
-}
-.skill-inner-con::before {
+} */
+/* .skill-inner-con::before {
     content: "";
     width: 35px;
     height: 38px;
@@ -513,7 +513,7 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
     background: url(../image/triangle-icon.png) no-repeat top left;
     -webkit-animation: mover 1s infinite alternate;
     animation: mover 1s infinite alternate;
-}
+} */
 .download-bnt a{
     padding: 20px 32px 19px;
 }
